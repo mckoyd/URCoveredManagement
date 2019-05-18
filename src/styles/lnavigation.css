@@ -1,0 +1,26 @@
+.nav {
+  height: 15vh;
+  display: flex;
+}
+
+.logo {
+  height: 100%;
+  width: 25%;
+}
+
+.title {
+  align-self: center;
+  text-align: center;
+  text-transform: uppercase; 
+  color: #F1F9ED;
+  font-family: 'Montserrat';
+  margin-bottom: 1em;
+}
+
+.main-title {
+  font-size: 3em;
+}
+
+.sub-title {
+  font-size: 2em;
+}
